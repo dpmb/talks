@@ -9,10 +9,10 @@ The Debian Package Management Book
 We are writing a book
 ---------------------
 
-* about Debian Package Management,
+* about Debian Package Management
 * featuring dpkg, APT, Aptitude, and friends
 * in German (but an English translation is planned)
-* under a free license (CC BY-SA 4.0),
+* under a free license (CC BY-SA 4.0)
 * will be available as
 ** E-Book (PDF, EPUB),
 ** Printed Book at http://www.onyxneon.org/[Onyx Neon],
