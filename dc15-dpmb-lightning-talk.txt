@@ -1,0 +1,61 @@
+The Debian Package Management Book
+==================================
+:author:    Axel Beckert <abe@debian.org>, Frank Hofmann <frank.hofmann@efho.de>
+:backend:   slidy
+:data-uri:  http://www.dpmb.org/
+:max-width: 94%
+:icons:
+
+We are writing a book
+---------------------
+
+* about Debian Package Management,
+* featuring dpkg, APT, Aptitude, and friends
+* in German (but an English translation is planned)
+* under a free license (CC BY-SA 4.0),
+* will be available as
+** E-Book (PDF, EPUB),
+** Printed Book at http://www.onyxneon.org/[Onyx Neon],
+** Debian Package
+
+It's online already
+-------------------
+
+Get the source code on Github: https://github.com/dpmb/
+
+* Want to contribute?
+* Found a typo?
+* Complaints?
+
+Fork it, fix it, file a pull request. ;-)
+
+Want to have an e-book of a pre-release version?
+------------------------------------------------
+
+Get all the stuff you need for it:
+
+    sudo apt-get install asciidoc dblatex
+    git clone git://github.com/dpmb/dpmb.git
+    cd dpmb
+
+Build EPUB, PDF and HTML:
+
+    make
+
+or build and install a Debian package with these three formats:
+
+    dpkg-buildpackage -b
+    sudo dpkg -i ../debian-paketmanagement-buch_*_all.deb
+
+Links
+-----
+
+* http://www.dpmb.org/ = http://www.debian-paketmanagement.de/
+* https://github.com/dpmb/dpmb/
+* book@dpmb.de = buch@debian-paketmanagement.de
+
+Authors
+~~~~~~~
+
+* Axel Beckert <abe@debian.org>
+* Frank Hofmann <frank.hofmann@efho.de>
