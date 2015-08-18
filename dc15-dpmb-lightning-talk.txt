@@ -51,7 +51,8 @@ Links
 -----
 
 * http://www.dpmb.org/ = http://www.debian-paketmanagement.de/
-* https://github.com/dpmb/dpmb/
+* Book Source Code: https://github.com/dpmb/dpmb/
+* Slides: https://github.com/dpmb/talks
 * book@dpmb.de = buch@debian-paketmanagement.de
 
 Authors
