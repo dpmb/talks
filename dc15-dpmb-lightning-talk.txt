@@ -15,7 +15,7 @@ We are writing a book
 * under a free license (CC BY-SA 4.0)
 * will be available as
 ** E-Book (PDF, EPUB),
-** Printed Book at http://www.onyxneon.org/[Onyx Neon],
+** Printed Book at http://www.onyxneon.com/[Onyx Neon],
 ** Debian Package
 
 It's online already
