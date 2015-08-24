@@ -1,4 +1,4 @@
-all: dc15-dpmb-lightning-talk.html
+all: lightning-talk.html
 
 %.html: %.txt Makefile
 	asciidoc $<
