@@ -50,6 +50,8 @@ Wie entstand das Buch
 
 * Basis: Schreiben ist ein kreativer Prozess und bedingt daher eine entsprechende Stimmung
 
+* Zeitraum: seit Anfang 2013 bis jetzt
+
 * vor Ort: hauptsächlich in Zürich und Berlin
 ** jeder werkelt für sich
 ** explizites Zusammentreffen für das Buch ("Buch Sprints")
@@ -58,3 +60,19 @@ Wie entstand das Buch
 ** Zusammentreffen im Rahmen von Linux-Events
 ** im Wohnmobil (Axel) und im Zug (Frank)
 ** etwas abgelegene Orte, um die entsprechende Ruhe zu haben
+
+Technik dahinter
+----------------
+
+* Versionskontrollsystem: Git
+** freies, stabiles und sehr flexibles RCS
+** Kombination aus zentralem Archiv und dezentralen Kopien
+** dezentrales, verteiltes Arbeiten ohne permanente Abhängigkeit des Internets
+** regelmäßiges Zusammenführen ("Synchronisieren") der Inhalte
+
+* Hosting über die Plattform GitHub
+** https://github.com/dpmb/dpmb
+** kostenfrei als Einzelperson bzw. Organisation
+** sehr populär
+** erlaubt die Koordination von Fremdbeiträgen
+
