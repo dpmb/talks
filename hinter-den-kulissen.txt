@@ -1,0 +1,9 @@
+Behind The Debian Package Management Book
+=========================================
+:author:    Axel Beckert <abe@debian.org>, Frank Hofmann <frank.hofmann@efho.de>
+:backend:   slidy
+:data-uri:  http://www.dpmb.org/
+:max-width: 94%
+:icons:
+
+
