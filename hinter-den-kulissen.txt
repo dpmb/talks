@@ -12,16 +12,21 @@ Wir haben da so ein Buch angefangen ...
 * über das Paketmanagement auf Debian-basierten Systemen
 ** fokussiert auf Debian GNU/Linux
 ** passt aber auch für Ubuntu, Mint, etc.
+
 * beschreibt detailliert den Umgang mit der Paketverwaltung via dpkg,
   APT und Aptitude
+
 * ist vollständig in lesbarem Deutsch verfaßt
 ** auch eine englische Übersetzung ist geplant
+
 * steht unter einer freien Lizenz -- CC BY-SA 4.0
+
 * ist kostenfrei verfügbar als
 ** HTML
 ** E-Book (PDF, EPUB)
 ** MobiPocket
 ** Debianpaket
+
 * wird kostenpflichtig verfügbar sein als
 ** gedrucktes Buch, veröffentlicht bei http://www.onyxneon.com/[Onyx Neon]
 
@@ -37,5 +42,10 @@ Buchstatus (wie weit sind wir)
 
 * Mitwirkende
 ** Hauptautoren: Axel Beckert, Frank Hofmann
-** Beitragende
+** Beitragende (Korrekturleser, Verbesserer, Fragensteller, Meckerer)
 
+Wie entstand das Buch
+---------------------
+
+* hauptsächlich in Zürich und Berlin
+* von unterwegs aus
