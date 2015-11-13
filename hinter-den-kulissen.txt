@@ -1,9 +1,41 @@
-Behind The Debian Package Management Book
-=========================================
+Das Debian-Paketmanagement-Buch -- Blick hinter die Kulissen eines freien Buches
+================================================================================
 :author:    Axel Beckert <abe@debian.org>, Frank Hofmann <frank.hofmann@efho.de>
 :backend:   slidy
 :data-uri:  http://www.dpmb.org/
 :max-width: 94%
 :icons:
 
+Wir haben da so ein Buch angefangen ...
+---------------------------------------
+
+* über das Paketmanagement auf Debian-basierten Systemen
+** fokussiert auf Debian GNU/Linux
+** passt aber auch für Ubuntu, Mint, etc.
+* beschreibt detailliert den Umgang mit der Paketverwaltung via dpkg,
+  APT und Aptitude
+* ist vollständig in lesbarem Deutsch verfaßt
+** auch eine englische Übersetzung ist geplant
+* steht unter einer freien Lizenz -- CC BY-SA 4.0
+* ist kostenfrei verfügbar als
+** HTML
+** E-Book (PDF, EPUB)
+** MobiPocket
+** Debianpaket
+* wird kostenpflichtig verfügbar sein als
+** gedrucktes Buch, veröffentlicht bei http://www.onyxneon.com/[Onyx Neon]
+
+Buchstatus (wie weit sind wir)
+------------------------------
+
+* Inhalt
+** Konzepte -- Ideen hinter der Paketverwaltung
+** Werkzeuge -- Programme und deren Möglichkeiten
+** Praxis -- Lösungen für komplexere Alltagssituationen
+
+* Umfang: etwa 500 Seiten
+
+* Mitwirkende
+** Hauptautoren: Axel Beckert, Frank Hofmann
+** Beitragende
 
