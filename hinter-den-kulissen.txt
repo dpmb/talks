@@ -21,7 +21,7 @@ Wir haben da so ein Buch angefangen ...
 
 * steht unter einer freien Lizenz -- CC BY-SA 4.0
 
-* ist kostenfrei verfügbar als
+* ist bislang kostenfrei verfügbar als
 ** HTML
 ** E-Book (PDF, EPUB)
 ** MobiPocket
@@ -29,6 +29,7 @@ Wir haben da so ein Buch angefangen ...
 
 * wird kostenpflichtig verfügbar sein als
 ** gedrucktes Buch, veröffentlicht bei http://www.onyxneon.com/[Onyx Neon]
+** E-Book (PDF, EPUB)
 
 Buchstatus (wie weit sind wir)
 ------------------------------
@@ -47,5 +48,13 @@ Buchstatus (wie weit sind wir)
 Wie entstand das Buch
 ---------------------
 
-* hauptsächlich in Zürich und Berlin
-* von unterwegs aus
+* Basis: Schreiben ist ein kreativer Prozess und bedingt daher eine entsprechende Stimmung
+
+* vor Ort: hauptsächlich in Zürich und Berlin
+** jeder werkelt für sich
+** explizites Zusammentreffen für das Buch ("Buch Sprints")
+
+* sehr viel von unterwegs aus
+** Zusammentreffen im Rahmen von Linux-Events
+** im Wohnmobil (Axel) und im Zug (Frank)
+** etwas abgelegene Orte, um die entsprechende Ruhe zu haben
