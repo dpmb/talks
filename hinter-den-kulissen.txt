@@ -111,10 +111,28 @@ Mitmachen und Feedback
 Software
 --------
 
+* lokal
+** Git als RCS
+** Asciidoc als plattformunabhängige Auszeichnungssprache des
+   Buchinhalts
+** Make zur automatisierten Übersetzung in die Ausgabeformate
+
+* im Web
+** GitHub zur Verwaltung, für Statistik, zur Koordination und für
+   Benachrichtigungen
+** Travis-CI für automatisches Übersetzen und Konfliktvermeidung bei
+   Änderungen
+
 Baustellen
 ----------
 
-Technik dahinter
-----------------
+* woran arbeiten wir derzeit noch
+** Feinschliff Teil 2
+** Vervollständigung von Teil 3
 
+* wo brauchen wir Unterstützung
+** Praxisteil (Teil 3) -- wir können nicht alle Szenarien nachbauen
+
+Danke
+-----
 
