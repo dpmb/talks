@@ -14,6 +14,7 @@ Wir haben da so ein Buch angefangen ...
 * Entstehung: seit Frühjahr 2013
 * Umfang: etwa 500 Seiten
 * ist vollständig in lesbarem Deutsch verfaßt
+** Zielgruppe: fortgeschrittene Einsteiger, Profis
 ** auch eine englische Übersetzung ist in Vorbereitung
 
 * Inhalt:
@@ -138,3 +139,4 @@ Baustellen
 Danke
 -----
 
+Kontakt
