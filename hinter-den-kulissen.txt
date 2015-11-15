@@ -113,7 +113,7 @@ Software
 --------
 
 * lokal
-** Git als RCS
+** Git als VCS
 ** Asciidoc als plattformunabhängige Auszeichnungssprache des
    Buchinhalts
 ** Make zur automatisierten Übersetzung in die Ausgabeformate
