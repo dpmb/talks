@@ -12,6 +12,8 @@ Wir haben da so ein Buch angefangen ...
 * Autoren: Axel Beckert und Frank Hofmann
 * Entstehung: seit Frühjahr 2013
 * Umfang: etwa 500 Seiten
+* ist vollständig in lesbarem Deutsch verfaßt
+** auch eine englische Übersetzung ist in Vorbereitung
 
 * Inhalt:
 ** beschreibt detailliert den Umgang mit der Paketverwaltung auf
@@ -21,12 +23,23 @@ Wir haben da so ein Buch angefangen ...
 ** Teil 2: Werkzeuge -- die Programme und deren Möglichkeiten
 ** Teil 3: Praxis -- Lösungen für komplexere Alltagssituationen
 
-* Status
+* Status:
 ** Teil 1 und 2: soweit komplett
 ** Teil 3: hat noch größere Lücken
 
 Veröffentlichungen
 ------------------
+* steht unter einer freien Lizenz -- CC BY-SA 4.0
+
+* ist bislang kostenfrei verfügbar in elektronischer Form als
+** HTML (mehrere Varianten)
+** E-Book (PDF, EPUB)
+** MobiPocket
+** Debianpaket
+
+* wird kostenpflichtig verfügbar sein als
+** gedrucktes Buch, veröffentlicht bei http://www.onyxneon.com/[Onyx Neon]
+** E-Book (PDF, EPUB)
 
 Quellen
 -------
@@ -42,45 +55,6 @@ Software
 
 Baustellen
 ----------
-
-Wir haben da so ein Buch angefangen ...
----------------------------------------
-
-* über das Paketmanagement auf Debian-basierten Systemen
-** fokussiert auf Debian GNU/Linux
-** passt aber auch für Ubuntu, Mint, etc.
-
-* beschreibt detailliert den Umgang mit der Paketverwaltung via dpkg,
-  APT und Aptitude
-
-* ist vollständig in lesbarem Deutsch verfaßt
-** auch eine englische Übersetzung ist geplant
-
-* steht unter einer freien Lizenz -- CC BY-SA 4.0
-
-* ist bislang kostenfrei verfügbar als
-** HTML
-** E-Book (PDF, EPUB)
-** MobiPocket
-** Debianpaket
-
-* wird kostenpflichtig verfügbar sein als
-** gedrucktes Buch, veröffentlicht bei http://www.onyxneon.com/[Onyx Neon]
-** E-Book (PDF, EPUB)
-
-Buchstatus (wie weit sind wir)
-------------------------------
-
-* Inhalt
-** Konzepte -- Ideen hinter der Paketverwaltung
-** Werkzeuge -- Programme und deren Möglichkeiten
-** Praxis -- Lösungen für komplexere Alltagssituationen
-
-* Umfang: etwa 500 Seiten
-
-* Mitwirkende
-** Hauptautoren: Axel Beckert, Frank Hofmann
-** Beitragende (Korrekturleser, Verbesserer, Fragensteller, Meckerer)
 
 Wie entstand das Buch
 ---------------------
