@@ -17,24 +17,28 @@ Wir haben da so ein Buch angefangen ...
 ** Zielgruppe: fortgeschrittene Einsteiger, Profis
 ** auch eine englische Übersetzung ist in Vorbereitung
 
-* Inhalt:
-** beschreibt detailliert den Umgang mit der Paketverwaltung auf
-   deb-basierten Systemen via dpkg, APT und Aptitude
-** fokussiert auf Debian GNU/Linux, passt aber auch für Ubuntu, Mint, etc.
-** Teil 1: Konzepte -- Ideen hinter der Paketverwaltung
-** Teil 2: Werkzeuge -- die Programme und deren Möglichkeiten
-** Teil 3: Praxis -- Lösungen für komplexere Alltagssituationen
+Inhalt des Buches
+-----------------
 
-* Status:
-** Teil 1 und 2: soweit komplett
-** Teil 3: hat noch größere Lücken
+* beschreibt detailliert den Umgang mit der Paketverwaltung auf
+  deb-basierten Systemen via dpkg, APT und Aptitude
+* fokussiert auf Debian GNU/Linux, passt aber auch für Ubuntu, Mint, etc.
+* Teil 1: Konzepte -- Ideen hinter der Paketverwaltung
+* Teil 2: Werkzeuge -- die Programme und deren Möglichkeiten
+* Teil 3: Praxis -- Lösungen für komplexere Alltagssituationen
+
+Status
+~~~~~~
+
+* Teil 1 und 2: soweit komplett
+* Teil 3: hat noch größere Lücken
 
 Veröffentlichungen
 ------------------
 
 * Inhalt steht unter einer freien Lizenz --
   http://creativecommons.org/licenses/by-sa/4.0/[CC BY-SA 4.0]
-* Quellcode auf Github verfügbar
+* https://github.com/dpmb/dpmb[Quellcode auf GitHub] verfügbar
 * Aus dem Quellcode kann man selbst folgende Format bauen:
 ** HTML (mehrere Varianten)
 ** E-Book (biher PDF, EPUB und  MobiPocket)
@@ -69,7 +73,6 @@ Quellen des Buches
 ------------------
 
 * Hosting über die Plattform GitHub
-** https://github.com/dpmb/dpmb
 ** kostenfrei als Einzelperson bzw. Organisation
 ** sehr populär und vielen Entwicklern/Lesern vertraut
 ** erlaubt die unkomplizierte Koordination von Fremdbeiträgen
@@ -154,7 +157,8 @@ Markdown
 * Einfacher, aber auch weniger mächtig als Asciidoc
 * Standard-Format für Bücher bei Leanpub und Gitbook
 
-### Varianten
+Varianten
+~~~~~~~~~
 
 * Markua (zukünftiger Markdown-Dialekt speziell für Bücher von Leanpub)
 * LFM (Leanpub flavoured Markdown; auf Bücher angepasster Markdown-Dialekt)
