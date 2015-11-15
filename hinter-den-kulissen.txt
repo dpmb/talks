@@ -74,7 +74,7 @@ Quellen des Buches
 ** erlaubt die unkomplizierte Koordination von Fremdbeiträgen
 
 * Ablauf in drei Schritten:
-** Kopie vom Buch-Repo ziehen
+** lokale Kopie vom Buch-Repo ziehen ("Repo klonen")
 ** Buch lokal bauen, bspw. via "make PDF", "make HTML" oder "make deb"
 ** lesen, kommentieren und verbessern
 
@@ -94,6 +94,19 @@ Versionierung
 
 Mitmachen und Feedback
 ----------------------
+
+* Ablauf:
+** lokale Kopie des Buch-Repos erzeugen ("Repo klonen")
+** Änderungen durchführen und in der lokalen Instanz einchecken
+** an uns via GitHub einen Pull Request schicken ("Vorschlag zu
+   Änderungen")
+** Vorschlag und/oder Kommentar per Mail schicken
+
+* wir schauen uns die Änderungen bzw. den Vorschlag an
+** wir akzeptieren den Vorschlag oder lehnen diesen ab
+** falls akzeptiert, fügen wir die Änderungen via GitHub ein ("Merge")
+** Synchronisation mit den lokalen Kopien, damit alle Mitwirkenden
+   wieder auf dem aktuellen Stand sind
 
 Software
 --------
