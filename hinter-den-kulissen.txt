@@ -126,12 +126,14 @@ Software
 Baustellen
 ----------
 
-* woran arbeiten wir derzeit noch
-** Feinschliff Teil 2
-** Vervollständigung von Teil 3
+* woran arbeiten wir derzeit noch:
+** Feinschliff Teil 2 -- konsistente Wortwahl, Stichworte
+** Vervollständigung von Teil 3 -- Inhalt
 
-* wo brauchen wir Unterstützung
+* wo brauchen wir Unterstützung:
 ** Praxisteil (Teil 3) -- wir können nicht alle Szenarien nachbauen
+** welche Probleme sind mit deb-Paketen und den Werkzeugen aufgetaucht,
+   und wie wurde das Problem gelöst?
 
 Danke
 -----
