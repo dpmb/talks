@@ -8,6 +8,7 @@ Das Debian-Paketmanagement-Buch -- Blick hinter die Kulissen eines freien Buches
 
 Wir haben da so ein Buch angefangen ...
 ---------------------------------------
+
 * Titel: Debian-Paketmanagement
 * Autoren: Axel Beckert und Frank Hofmann
 * Entstehung: seit Frühjahr 2013
@@ -29,6 +30,7 @@ Wir haben da so ein Buch angefangen ...
 
 Veröffentlichungen
 ------------------
+
 * steht unter einer freien Lizenz -- CC BY-SA 4.0
 
 * ist bislang kostenfrei verfügbar in elektronischer Form als
@@ -41,13 +43,14 @@ Veröffentlichungen
 ** gedrucktes Buch, veröffentlicht bei http://www.onyxneon.com/[Onyx Neon]
 ** E-Book (PDF, EPUB)
 
-Wie entstand das Buch
+Wie entsteht das Buch
 ---------------------
+
 * Basis: 
 ** Schreiben ist ein kreativer Prozess und bedingt daher eine
    entsprechende Stimmung -- geht nicht "auf Knopfdruck"
 ** Orientierung des Schreibprozesses am Entwicklungsweg von Software
-** Auswahl der verwendeten Werkzeuge gemäß unseren Bedürfnissen
+** Auswahl der verwendeten (Software)Werkzeuge gemäß unseren Bedürfnissen
 
 * Schreiben an einem festen Ort: hauptsächlich in Zürich und Berlin
 ** jeder werkelt weitestgehend unabhängig für sich
@@ -63,6 +66,17 @@ Wie entstand das Buch
 
 Quellen
 -------
+
+* Hosting über die Plattform GitHub
+** https://github.com/dpmb/dpmb
+** kostenfrei als Einzelperson bzw. Organisation
+** sehr populär und vielen Entwicklern/Lesern vertraut
+** erlaubt die unkomplizierte Koordination von Fremdbeiträgen
+
+* Ablauf in drei Schritten:
+** Kopie vom Buch-Repo ziehen
+** Buch lokal bauen, bspw. via "make PDF", "make HTML" oder "make deb"
+** lesen, kommentieren und verbessern
 
 Versionierung
 -------------
@@ -85,9 +99,4 @@ Technik dahinter
 ** dezentrales, verteiltes Arbeiten ohne permanente Abhängigkeit des Internets
 ** regelmäßiges Zusammenführen ("Synchronisieren") der Inhalte
 
-* Hosting über die Plattform GitHub
-** https://github.com/dpmb/dpmb
-** kostenfrei als Einzelperson bzw. Organisation
-** sehr populär
-** erlaubt die Koordination von Fremdbeiträgen
 
