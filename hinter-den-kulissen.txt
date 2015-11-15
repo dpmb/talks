@@ -41,6 +41,26 @@ Veröffentlichungen
 ** gedrucktes Buch, veröffentlicht bei http://www.onyxneon.com/[Onyx Neon]
 ** E-Book (PDF, EPUB)
 
+Wie entstand das Buch
+---------------------
+* Basis: 
+** Schreiben ist ein kreativer Prozess und bedingt daher eine
+   entsprechende Stimmung -- geht nicht "auf Knopfdruck"
+** Orientierung des Schreibprozesses am Entwicklungsweg von Software
+** Auswahl der verwendeten Werkzeuge gemäß unseren Bedürfnissen
+
+* Schreiben an einem festen Ort: hauptsächlich in Zürich und Berlin
+** jeder werkelt weitestgehend unabhängig für sich
+** Austausch via Telefon, Mail und Videokonferenz
+** von Zeit zu Zeit ein explizites Zusammentreffen für das Buch
+   (sogenannte "Buch Sprints")
+
+* Schreiben von unterwegs aus
+** Zusammentreffen im Rahmen von Linux-Events
+** im Wohnmobil (Axel) und im Zug (Frank)
+** auch etwas abgelegene Orte, um die entsprechende Ruhe zu haben und
+   von nichts anderem abgelenkt zu werden
+
 Quellen
 -------
 
@@ -55,22 +75,6 @@ Software
 
 Baustellen
 ----------
-
-Wie entstand das Buch
----------------------
-
-* Basis: Schreiben ist ein kreativer Prozess und bedingt daher eine entsprechende Stimmung
-
-* Zeitraum: seit Anfang 2013 bis jetzt
-
-* vor Ort: hauptsächlich in Zürich und Berlin
-** jeder werkelt für sich
-** explizites Zusammentreffen für das Buch ("Buch Sprints")
-
-* sehr viel von unterwegs aus
-** Zusammentreffen im Rahmen von Linux-Events
-** im Wohnmobil (Axel) und im Zug (Frank)
-** etwas abgelegene Orte, um die entsprechende Ruhe zu haben
 
 Technik dahinter
 ----------------
