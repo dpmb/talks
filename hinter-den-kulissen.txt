@@ -64,8 +64,8 @@ Wie entsteht das Buch
 ** auch etwas abgelegene Orte, um die entsprechende Ruhe zu haben und
    von nichts anderem abgelenkt zu werden
 
-Quellen
--------
+Quellen des Buches
+------------------
 
 * Hosting über die Plattform GitHub
 ** https://github.com/dpmb/dpmb
@@ -81,6 +81,17 @@ Quellen
 Versionierung
 -------------
 
+* Versionskontrollsystem: Git
+** freies, stabiles und sehr flexibles RCS
+** Kombination aus zentralem Archiv und dezentralen Kopien
+** dezentrales, verteiltes Arbeiten ohne permanente Abhängigkeit des Internets
+** regelmäßiges Zusammenführen ("Synchronisieren") der Inhalte
+
+* erlaubt ... 
+** ... das zeitweise Arbeiten ohne Internet
+** ... das Nachvollziehen, wer was wann worin geändert hat
+** ... das Rückgängigmachen von Änderungen
+
 Mitmachen und Feedback
 ----------------------
 
@@ -92,11 +103,5 @@ Baustellen
 
 Technik dahinter
 ----------------
-
-* Versionskontrollsystem: Git
-** freies, stabiles und sehr flexibles RCS
-** Kombination aus zentralem Archiv und dezentralen Kopien
-** dezentrales, verteiltes Arbeiten ohne permanente Abhängigkeit des Internets
-** regelmäßiges Zusammenführen ("Synchronisieren") der Inhalte
 
 
