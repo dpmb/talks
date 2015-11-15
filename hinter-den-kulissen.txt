@@ -136,6 +136,30 @@ Baustellen
 ** welche Probleme sind mit deb-Paketen und den Werkzeugen aufgetaucht,
    und wie wurde das Problem gelöst?
 
+
+Von uns nicht genutzte Alternative zur Veröffentlichung
+-------------------------------------------------------
+
+* https://leanpub.com/[Leanpub] (primär E-Books, auch kostenlose
+  Bücher oder Zahl-was-Du-willst-Schema möglich)
+* https://www.publi.de/[Epubli] (Print-on-Demand, aber auch
+  Vorab-Druck auf Vorschuß des Autors; Buchpreisbindung in Dtl., gibt
+  aber auch https://www.epubli.co.uk/[epubli.co.uk])
+* http://www.lulu.com/[Lulu] (primär Print-on-Demand)
+* http://www.bookbaby.com/[BookBaby] (E-Books und gedruckte Bücher)
+
+Markdown
+--------
+
+* Einfacher, aber auch weniger mächtig als Asciidoc
+* Standard-Format für Bücher bei Leanpub und Gitbook
+
+### Varianten
+
+* Markua (zukünftiger Markdown-Dialekt speziell für Bücher von Leanpub)
+* LFM (Leanpub flavoured Markdown; auf Bücher angepasster Markdown-Dialekt)
+
+
 Danke
 -----
 
