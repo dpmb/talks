@@ -6,8 +6,24 @@ Das Debian-Paketmanagement-Buch -- Blick hinter die Kulissen eines freien Buches
 :max-width: 94%
 :icons:
 
-Buch
-----
+Wir haben da so ein Buch angefangen ...
+---------------------------------------
+* Titel: Debian-Paketmanagement
+* Autoren: Axel Beckert und Frank Hofmann
+* Entstehung: seit Frühjahr 2013
+* Umfang: etwa 500 Seiten
+
+* Inhalt:
+** beschreibt detailliert den Umgang mit der Paketverwaltung auf
+   deb-basierten Systemen via dpkg, APT und Aptitude
+** fokussiert auf Debian GNU/Linux, passt aber auch für Ubuntu, Mint, etc.
+** Teil 1: Konzepte -- Ideen hinter der Paketverwaltung
+** Teil 2: Werkzeuge -- die Programme und deren Möglichkeiten
+** Teil 3: Praxis -- Lösungen für komplexere Alltagssituationen
+
+* Status
+** Teil 1 und 2: soweit komplett
+** Teil 3: hat noch größere Lücken
 
 Veröffentlichungen
 ------------------
