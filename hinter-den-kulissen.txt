@@ -22,7 +22,7 @@ Inhalt des Buches
 
 * beschreibt detailliert den Umgang mit der Paketverwaltung auf
   deb-basierten Systemen via dpkg, APT und Aptitude
-* fokussiert auf Debian GNU/Linux, passt aber auch für Ubuntu, Mint, etc.
+* fokussiert auf Debian GNU/Linux, passt aber auch für Ubuntu, LinuxMint, etc.
 * Teil 1: Konzepte -- Ideen hinter der Paketverwaltung
 * Teil 2: Werkzeuge -- die Programme und deren Möglichkeiten
 * Teil 3: Praxis -- Lösungen für komplexere Alltagssituationen
