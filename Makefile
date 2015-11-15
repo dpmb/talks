@@ -1,4 +1,4 @@
-all: lightning-talk.html
+all: lightning-talk.html hinter-den-kulissen.html
 
 %.html: %.txt Makefile
 	asciidoc $<
