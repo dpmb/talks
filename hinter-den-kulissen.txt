@@ -32,17 +32,17 @@ Wir haben da so ein Buch angefangen ...
 Veröffentlichungen
 ------------------
 
-* steht unter einer freien Lizenz -- CC BY-SA 4.0
-
-* ist bislang kostenfrei verfügbar in elektronischer Form als
+* Inhalt steht unter einer freien Lizenz --
+  http://creativecommons.org/licenses/by-sa/4.0/[CC BY-SA 4.0]
+* Quellcode auf Github verfügbar
+* Aus dem Quellcode kann man selbst folgende Format bauen:
 ** HTML (mehrere Varianten)
-** E-Book (PDF, EPUB)
-** MobiPocket
-** Debianpaket
-
-* wird kostenpflichtig verfügbar sein als
-** gedrucktes Buch, veröffentlicht bei http://www.onyxneon.com/[Onyx Neon]
-** E-Book (PDF, EPUB)
+** E-Book (biher PDF, EPUB und  MobiPocket)
+** Debian-Paket mit PDF, HTML und EPUB.
+* Fertig gebaute E-Books zum direkten Download geplant via
+  https://www.gitbook.com/[Gitbook]
+** Gedrucktes Buch (kostenpflichtig) geplant, Veröffentlichung bei
+  http://www.onyxneon.com/[Onyx Neon]
 
 Wie entsteht das Buch
 ---------------------
