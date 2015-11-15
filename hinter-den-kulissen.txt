@@ -6,6 +6,27 @@ Das Debian-Paketmanagement-Buch -- Blick hinter die Kulissen eines freien Buches
 :max-width: 94%
 :icons:
 
+Buch
+----
+
+Veröffentlichungen
+------------------
+
+Quellen
+-------
+
+Versionierung
+-------------
+
+Mitmachen und Feedback
+----------------------
+
+Software
+--------
+
+Baustellen
+----------
+
 Wir haben da so ein Buch angefangen ...
 ---------------------------------------
 
