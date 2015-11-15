@@ -76,7 +76,7 @@ Quellen des Buches
 
 * Ablauf in drei Schritten:
 ** lokale Kopie vom Buch-Repo ziehen ("Repo klonen")
-** Buch lokal bauen, bspw. via "make PDF", "make HTML" oder "make deb"
+** Buch lokal bauen, bspw. via "make pdf", "make html" oder "dpkg-buildpackage"
 ** lesen, kommentieren und verbessern
 
 Versionierung
