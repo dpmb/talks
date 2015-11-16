@@ -39,7 +39,7 @@ Veröffentlichungen
 * Inhalt steht unter einer freien Lizenz --
   http://creativecommons.org/licenses/by-sa/4.0/[CC BY-SA 4.0]
 * https://github.com/dpmb/dpmb[Quellcode auf GitHub] verfügbar
-* Aus dem Quellcode kann man selbst folgende Format bauen:
+* Aus dem Quellcode kann jeder selbst folgende Formate bauen:
 ** HTML (mehrere Varianten)
 ** E-Book (biher PDF, EPUB und  MobiPocket)
 ** Debian-Paket mit PDF, HTML und EPUB.
