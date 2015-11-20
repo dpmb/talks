@@ -62,7 +62,7 @@ Wie entsteht das Buch
 ** jeder werkelt weitestgehend unabhängig für sich
 ** Austausch via Telefon, Mail und Videokonferenz
 ** von Zeit zu Zeit ein explizites Zusammentreffen für das Buch
-   (sogenannte "Buch Sprints")
+   (sogenannte "Buch-Sprints")
 
 * Schreiben von unterwegs aus
 ** Zusammentreffen im Rahmen von Linux-Events
