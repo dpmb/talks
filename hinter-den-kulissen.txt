@@ -41,7 +41,7 @@ Veröffentlichungen
 * https://github.com/dpmb/dpmb[Quellcode auf GitHub] verfügbar
 * Aus dem Quellcode kann jeder selbst folgende Formate bauen:
 ** HTML (mehrere Varianten)
-** E-Book (biher PDF, EPUB und  MobiPocket)
+** E-Book (bisher PDF, EPUB und MobiPocket)
 ** Debian-Paket mit PDF, HTML und EPUB.
 * Fertig gebaute E-Books zum direkten Download geplant via
   https://www.gitbook.com/[Gitbook]
