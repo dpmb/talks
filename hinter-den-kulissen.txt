@@ -87,8 +87,8 @@ Quellen des Buches
 Versionierung
 -------------
 
-* Versionskontrollsystem: Git
-** freies, stabiles und sehr flexibles RCS
+* Versionskontrollsystem (VCS): Git
+** freies, stabiles und sehr flexibles VCS
 ** Kombination aus zentralem Archiv und dezentralen Kopien
 ** dezentrales, verteiltes Arbeiten ohne permanente Abhängigkeit des Internets
 ** regelmäßiges Zusammenführen ("Synchronisieren") der Inhalte
