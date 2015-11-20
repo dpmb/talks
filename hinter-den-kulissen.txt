@@ -134,13 +134,21 @@ Software
 ** Git als VCS
 ** Asciidoc als plattformunabhängige Auszeichnungssprache des
    Buchinhalts
-** Make zur automatisierten Übersetzung in die Ausgabeformate
+*** `asciidoc` oder `asciidoctor` als primärer Parser
+*** `a2x`, `dblatex` und `pdflatex` zum Erzeugen der PDFs
+** Make zur Anstossen der Übersetzung in die Ausgabeformate
+** Node.js und https://www.npmjs.com/package/gitbook[Gitbook
+   (installiert via npm)] zum Debuggen, falls das Buch auf Gitbook
+   nicht mehr baut.
 
 * im Web
 ** GitHub zur Verwaltung, für Statistik, zur Koordination und für
    Benachrichtigungen
-** Travis-CI für automatisches Übersetzen und Konfliktvermeidung bei
-   Änderungen
+** https://travis-ci.org/dpmb/dpmb/builds[Travis-CI zum automatisches
+   Testen, ob das Buch nach einem Commit noch baut], auch bei
+   Pull-Requests.
+** Gitbook zum automatischen Bauen der Online-Version und E-Books nach
+   jedem `git push`.
 
 Baustellen
 ----------
