@@ -74,7 +74,7 @@ Quellen des Buches
 ------------------
 
 * Hosting über die Plattform GitHub
-** kostenfrei als Einzelperson bzw. Organisation
+** kostenfrei für freie (öffentlich verfügbare) Software
 ** sehr populär und vielen Entwicklern/Lesern vertraut
 ** erlaubt die unkomplizierte Koordination von Fremdbeiträgen
 
