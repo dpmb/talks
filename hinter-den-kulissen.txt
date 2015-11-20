@@ -38,7 +38,7 @@ Veröffentlichungen
 
 * Inhalt steht unter einer freien Lizenz --
   http://creativecommons.org/licenses/by-sa/4.0/[CC BY-SA 4.0]
-* https://github.com/dpmb/dpmb[Quellcode auf GitHub] verfügbar
+* https://github.com/dpmb/dpmb[Quellcode auf GitHub] verfügbar: https://github.com/dpmb/dpmb
 * Aus dem Quellcode kann jeder selbst folgende Formate bauen:
 ** HTML (mehrere Varianten)
 ** E-Book (bisher PDF, EPUB und MobiPocket)
@@ -200,3 +200,10 @@ Feedback bitte an
 * Per E-Mail an mailto:buch@dpmb.org[buch@dpmb.org]
 * https://github.com/dpmb/dpmb/pulls[Via Pull Request auf GitHub]
 * Axel oder Frank direkt
+
+Links
+~~~~~
+
+* Webseite: http://www.dpmb.org/
+* Lesen: http://book.dpmb.org/
+* Quellcode: https://github.com/dpmb/dpmb
