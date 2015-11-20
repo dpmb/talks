@@ -43,8 +43,8 @@ Veröffentlichungen
 ** HTML (mehrere Varianten)
 ** E-Book (bisher PDF, EPUB und MobiPocket)
 ** Debian-Paket mit PDF, HTML und EPUB.
-* Fertig gebaute E-Books zum direkten Download geplant via
-  https://www.gitbook.com/[Gitbook]
+* Fertig gebaute E-Books zum Online-Lesen und direkten Download unter
+  http://book.dpmb.org/ (mittles https://www.gitbook.com/book/dpmb/dpmb/details[Gitbook])
 ** Gedrucktes Buch (kostenpflichtig) geplant, Veröffentlichung bei
   http://www.onyxneon.com/[Onyx Neon]
 
