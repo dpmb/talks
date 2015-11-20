@@ -106,7 +106,7 @@ Mitmachen und Feedback
    klicken.
 .. Änderungen machen und in das damit erstellte eigene GitHub-Repo
    des Buches einchecken:
-*** Entweder das eigene Github-Repo lokal auschecken ("Repo klonen"),
+*** Entweder das eigene GitHub-Repo lokal auschecken ("Repo klonen"),
     lokal Änderungen vornehmen, committen und wieder ins eigene
     GitHub-Repo pushen.
 *** Oder einfach auf der Webseite Deines geforkten GitHub-Repos die
