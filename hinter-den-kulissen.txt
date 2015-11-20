@@ -153,13 +153,13 @@ Software
 Baustellen
 ----------
 
-* woran arbeiten wir derzeit noch:
+* Woran wir derzeit noch arbeiten:
 ** Feinschliff Teil 2 -- konsistente Wortwahl, Stichworte
 ** Vervollständigung von Teil 3 -- Inhalt
 
-* wo brauchen wir Unterstützung:
-** Praxisteil (Teil 3) -- wir können nicht alle Szenarien nachbauen
-** welche Probleme sind mit deb-Paketen und den Werkzeugen aufgetaucht,
+* Wo wir noch Unterstützung brauchen:
+** Praxisteil (Teil 3) -- Wir können nicht alle Szenarien nachbauen.
+** Welche Probleme sind mit deb-Paketen und den Werkzeugen aufgetaucht,
    und wie wurde das Problem gelöst?
 
 
