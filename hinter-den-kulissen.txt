@@ -77,10 +77,10 @@ Quellen des Buches
 ** kostenfrei für freie (öffentlich verfügbare) Software
 ** sehr populär und vielen Entwicklern/Lesern vertraut
 ** erlaubt die unkomplizierte Koordination von Fremdbeiträgen
-** Rendert Quelldateien in AsciiDoc rudimentär zur Ansicht im Repo
+** rendert Quelldateien in AsciiDoc rudimentär zur Ansicht im Repo
 
 * Ablauf in drei Schritten:
-** lokale Kopie vom Buch-Repo ziehen ("Repo klonen")
+** lokale Kopie vom Buch-Repo ziehen: `git clone git://github.com/dpmb/dpmb.git`
 ** Buch lokal bauen, bspw. via `make pdf`, `make html` oder `dpkg-buildpackage`
 ** lesen, kommentieren und verbessern
 
@@ -156,6 +156,7 @@ Baustellen
 * Woran wir derzeit noch arbeiten:
 ** Feinschliff Teil 2 -- konsistente Wortwahl, Stichworte
 ** Vervollständigung von Teil 3 -- Inhalt
+** Markup ans Rendering bei Gitbook anpassen.
 
 * Wo wir noch Unterstützung brauchen:
 ** Praxisteil (Teil 3) -- Wir können nicht alle Szenarien nachbauen.
@@ -186,14 +187,15 @@ Varianten
 * http://markua.com/[Markua] (zukünftiger Markdown-Dialekt speziell für Bücher von Leanpub)
 * https://leanpub.com/help/manual[Leanpub Flavoured Markdown] (LFM; auf Bücher angepasster Markdown-Dialekt)
 * https://help.github.com/articles/github-flavored-markdown/[GitHub Flavoured Markdown]
-  (wird auch http://help.gitbook.com/format/markdown.html[von Gitbook verwendet])
+  (GFM; wird auch http://help.gitbook.com/format/markdown.html[von Gitbook verwendet])
 
 Danke und Kontakt
 -----------------
 
 Danke fürs Interesse und Zuhören.
 
-Feedback bitte an:
+Feedback bitte an
+~~~~~~~~~~~~~~~~~
 
 * Per E-Mail an mailto:buch@dpmb.org[buch@dpmb.org]
 * https://github.com/dpmb/dpmb/pulls[Via Pull Request auf GitHub]
