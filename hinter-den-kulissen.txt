@@ -77,6 +77,7 @@ Quellen des Buches
 ** kostenfrei für freie (öffentlich verfügbare) Software
 ** sehr populär und vielen Entwicklern/Lesern vertraut
 ** erlaubt die unkomplizierte Koordination von Fremdbeiträgen
+** Rendert Quelldateien in AsciiDoc rudimentär zur Ansicht im Repo
 
 * Ablauf in drei Schritten:
 ** lokale Kopie vom Buch-Repo ziehen ("Repo klonen")
