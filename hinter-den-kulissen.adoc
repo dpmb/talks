@@ -207,3 +207,4 @@ Links
 * Webseite: http://www.dpmb.org/
 * Lesen: http://book.dpmb.org/
 * Quellcode: https://github.com/dpmb/dpmb
+* Folien: https://github.com/dpmb/talks/blob/master/hinter-den-kulissen.adoc
