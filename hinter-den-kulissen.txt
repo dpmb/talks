@@ -101,18 +101,31 @@ Versionierung
 Mitmachen und Feedback
 ----------------------
 
-* Ablauf:
-** lokale Kopie des Buch-Repos erzeugen ("Repo klonen")
-** Änderungen durchführen und in der lokalen Instanz einchecken
-** an uns via GitHub einen Pull Request schicken ("Vorschlag zu
-   Änderungen")
-** Vorschlag und/oder Kommentar per Mail schicken
+* Mit GitHub-Konto: Per Pull-Request auf GitHub
+.. Auf https://github.com/dpmb/dpmb oben rechts auf den "Fork"-Knopf
+   klicken.
+.. Änderungen machen und in das damit erstellte eigene GitHub-Repo
+   des Buches einchecken:
+*** Entweder das eigene Github-Repo lokal auschecken ("Repo klonen"),
+    lokal Änderungen vornehmen, committen und wieder ins eigene
+    GitHub-Repo pushen.
+*** Oder einfach auf der Webseite Deines geforkten GitHub-Repos die
+    Änderungen direkt via Browser vornehmen.
+.. Webseite des eigenen Repos aufrufen (oder neu laden) und auf "Pull
+   Request" klicken.
+* Ohne GitHub-Konto: Patches per E-Mail einsenden
+.. Lokale Kopie des Buch-Repos erzeugen: `git clone git://github.com/dpmb/dpmb.git`
+.. Änderungen durchführen und in der lokalen Instanz einchecken.
+.. Patch in Datei exportieren `git format-patch origin/master` und Datei an
+   mailto:buch@dpmb.org[buch@dpmb.org] schicken.
 
-* wir schauen uns die Änderungen bzw. den Vorschlag an
-** wir akzeptieren den Vorschlag oder lehnen diesen ab
-** falls akzeptiert, fügen wir die Änderungen via GitHub ein ("Merge")
-** Synchronisation mit den lokalen Kopien, damit alle Mitwirkenden
-   wieder auf dem aktuellen Stand sind
+* Wir schauen uns den Patch bzw. den Pull-Request an
+** Entweder akzeptieren wir die Änderungen oder lehnen sie ab
+** Falls akzeptiert, "mergen" wir den Pull-Request oder wenden den
+   Patch mit `git am` an.
+
+* Synchronisation der lokalen Kopien (`git pull`), damit alle
+  Mitwirkenden wieder auf dem aktuellen Stand sind
 
 Software
 --------
