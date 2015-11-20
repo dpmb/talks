@@ -188,7 +188,13 @@ Varianten
 * https://help.github.com/articles/github-flavored-markdown/[GitHub Flavoured Markdown]
   (wird auch http://help.gitbook.com/format/markdown.html[von Gitbook verwendet])
 
-Danke
------
+Danke und Kontakt
+-----------------
 
-Kontakt
+Danke fürs Interesse und Zuhören.
+
+Feedback bitte an:
+
+* Per E-Mail an mailto:buch@dpmb.org[buch@dpmb.org]
+* https://github.com/dpmb/dpmb/pulls[Via Pull Request auf GitHub]
+* Axel oder Frank direkt
