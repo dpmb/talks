@@ -1,0 +1,82 @@
+The Debian Package Management Book -- Behind the Curtain of a Free Book
+=======================================================================
+:author:    Axel Beckert <abe@debian.org>, Frank Hofmann <frank.hofmann@efho.de>
+:backend:   slidy
+:data-uri:  http://www.dpmb.org/
+:max-width: 94%
+:icons:
+
+We've started a book
+--------------------
+
+* Title: Debian Paket Management
+* Authors: Axel Beckert and Frank Hofmann
+* Start: Spring 2013
+* Length: about 500 pages
+* Completely written in readable German
+** Intended Audience: Advance Beginners, Professionals
+** An English translation is planned
+
+Contents of the Book
+--------------------
+
+* describes in details the package management on dpkg/apt based systems
+* focusses on Debian GNU/Linux, but also fits for derivatives like Ubuntu, LinuxMint, etc.
+* Part 1: Concpets -- Ideas behind Package Management
+* Part 2: Tools -- the programs and their possibilities
+* Part 3: Best Practice -- Solutions for more complex real-life situations
+
+Status
+~~~~~~
+
+* Part 1 and 2: mostly complete
+* Part 3: still things missing
+
+Releases
+--------
+
+* Contents is under a free license --
+  http://creativecommons.org/licenses/by-sa/4.0/[CC BY-SA 4.0]
+* https://github.com/dpmb/dpmb[Source Code available at GitHub]: https://github.com/dpmb/dpmb
+* Fom the source code you can build the following formats:
+** HTML (multiple variants)
+** E-book (so far PDF, EPUB and MobiPocket)
+** Debian Package with PDF, HTML and EPUB.
+* Built e-books for reading online or download at
+  http://book.dpmb.org/ (currently via https://www.gitbook.com/book/dpmb/dpmb/details[Gitbook])
+** Rendering at Gitbook has multiple non-trivial issues
+* Printed book planned, publication at http://www.onyxneon.com/[Onyx Neon]
+
+Markdown in comparison to AsciiDoc
+----------------------------------
+
+* Simpler, but also less mighty
+* Standard format for books at Leanpub and Gitbook
+
+Variants
+~~~~~~~~
+
+* http://markua.com/[Markua] (future Markdown dialect for books at Leanpub)
+* https://leanpub.com/help/manual[Leanpub Flavoured Markdown] (LFM; Markdown dialect focussed on books)
+* https://help.github.com/articles/github-flavored-markdown/[GitHub Flavoured Markdown]
+  (GFM; also http://help.gitbook.com/format/markdown.html[used atGitbook])
+
+Thanks and Contact
+------------------
+
+Thanks for listening.
+
+Feedback
+~~~~~~~~
+
+* Via e-mail to mailto:buch@dpmb.org[buch@dpmb.org]
+* https://github.com/dpmb/dpmb/pulls[Via pull request on GitHub]
+* directly to Axel or Frank
+
+Links
+~~~~~
+
+* Website: http://www.dpmb.org/
+* Read online: http://book.dpmb.org/
+* Source Code: https://github.com/dpmb/dpmb
+* Slides: https://github.com/dpmb/talks/blob/master/behind-the-curtain.adoc
