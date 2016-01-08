@@ -6,25 +6,25 @@ The Debian Package Management Book -- Behind the Curtain of a Free Book
 :max-width: 94%
 :icons:
 
-We've started a book
---------------------
+We've started a book ...
+------------------------
 
-* Title: Debian Paket Management
+* Title: Debian Package Management
 * Authors: Axel Beckert and Frank Hofmann
 * Start: Spring 2013
 * Length: about 500 pages
 * Completely written in readable German
-** Intended Audience: Advance Beginners, Professionals
-** An English translation is planned
+** Intended audience: advance beginners, professionals
+** An english translation is planned
 
 Contents of the Book
 --------------------
 
-* describes in details the package management on dpkg/apt based systems
+* describes the package management on dpkg/apt based systems in detail
 * focusses on Debian GNU/Linux, but also fits for derivatives like Ubuntu, LinuxMint, etc.
-* Part 1: Concpets -- Ideas behind Package Management
+* Part 1: Concepts -- ideas behind Package Management
 * Part 2: Tools -- the programs and their possibilities
-* Part 3: Best Practice -- Solutions for more complex real-life situations
+* Part 3: Best Practice -- solutions for more complex real-life situations
 
 Status
 ~~~~~~
@@ -35,10 +35,10 @@ Status
 Releases
 --------
 
-* Contents is under a free license --
+* The whole contents is under a free license --
   http://creativecommons.org/licenses/by-sa/4.0/[CC BY-SA 4.0]
 * https://github.com/dpmb/dpmb[Source Code available at GitHub]: https://github.com/dpmb/dpmb
-* Fom the source code you can build the following formats:
+* From the source code you can build the following formats:
 ** HTML (multiple variants)
 ** E-book (so far PDF, EPUB and MobiPocket)
 ** Debian Package with PDF, HTML and EPUB.
@@ -47,12 +47,12 @@ Releases
 ** Rendering at Gitbook has multiple non-trivial issues
 * Printed book planned, publication at http://www.onyxneon.com/[Onyx Neon]
 
-How the book is developed
--------------------------
+How we write our book
+---------------------
 
 * Base:
 ** Writing is a creative process and requires a specific mood --
-   doesn't work at the touch of a button.
+   it doesn't work at the touch of a button.
 ** Our process is modeled after software development processes
 ** Using (free) tools as we need them.
 
@@ -60,40 +60,41 @@ How the book is developed
 ** each author works mostly on his own
 ** Exchange via phone, e-mail and video conference
 ** occassional explicit meetings about the book
-   (so called "book sprints")
+   (so-called "book sprints")
 
 * Writing on the road
 ** Meeting within the scope of Linux events
 ** in the camper van (Axel) and on the train (Frank)
-** also far off locations to find silence and avoiding distractions
+** also far off locations to find silence, and not to be distracted from
+   the outside world
 
 Sources of the Book
 -------------------
 
-* Hosting on the platform GitHub
-** without costs for free (freely available) Software
-** very popular and known to many developers/readers
+* Hosting is done on the platform GitHub
+** without costs for free (freely available) software
+** very popular and known by many developers/readers
 ** provides uncomplicated coordination of external contributions
 ** provides a simple rendering of AsciiDoc source files
 
 * Workflow in three steps:
 ** clone a local copy of the book repository: `git clone git://github.com/dpmb/dpmb.git`
 ** build the book locally, e.g. with `make pdf`, `make html` or `dpkg-buildpackage`
-** read, comment and improve
+** read, comment and improve the source
 
 Versioning
 ----------
 
-* Version control system (VCS): Git
+* Revision control system that we use: Git
 ** free, stable and very flexible VCS
-** Combination of central archive and distributed copies
+** Combination of central archive, and distributed copies kept on local machines
 ** distributed working without permanent need of an internet connection
 ** steady synchronising and merging of contents
 
 * allows ...
 ** ... to temporarily work without internet
-** ... being able to reconstruct who changed what when
-** ... to revert change
+** ... being able to reconstruct who changed what, and when
+** ... to revert the changes
 
 Contributing and Feedback
 -------------------------
@@ -105,9 +106,9 @@ Contributing and Feedback
     locally, commit them and push them into your forked GitHub repo.
 *** Or edit the files of your forked GitHub repo directly in your web
     browser on the GitHub website.
-.. Open the webseite of your forked GitHub repo (or reload it) and
+.. Open the website of your forked GitHub repo (or reload it) and
    click on "Pull Request".
-* Without GitHub account: Send patches by e-mail
+* Without GitHub account: send us your patches by e-mail
 .. Create local copy of our Git repo: `git clone git://github.com/dpmb/dpmb.git`
 .. Make your changes and commit them locally.
 .. Export patch(es) in files with `git format-patch origin/master` and
@@ -125,13 +126,13 @@ Software
 --------
 
 * locally
-** Git as VCS
-** Asciidoc as platfor-ndependent markup language for the contents
+** Git as revision control system
+** AsciiDoc as platform-independent markup language for the content
 *** `asciidoc` or `asciidoctor` as primary parser
 *** `a2x`, `dblatex` and `pdflatex` for generating the PDF
 ** Make for triggering the compilation into the output formats
 ** Node.js and https://www.npmjs.com/package/gitbook[Gitbook
-   (installiert via npm)] for debugging, if the book doesn't build on
+   (installed via npm)] for debugging, if the book doesn't build on
    Gitbook.
 
 * on the web
@@ -145,16 +146,15 @@ Software
 Under Construction
 ------------------
 
-* Where we're still working:
+* Where we're still working on:
 ** Finetuning part 2 -- consistent wording, keywords
-** Completion of part 3 -- Contents
+** Completion of part 3 -- content improvements
 ** Work around issues at Gitbook
 
-* We we need support:
-** Best Practice part (part 3) -- We can't setup all scenarios
-** Which problems with .deb packages and tools popped up and how have
-   they been solved.
-
+* We we need support for:
+** Best practice part (part 3) -- we cannot setup, and verify all scenarios
+** Which problems did you notice with .deb packages, and which tools
+   popped up? How have did you solve the situation?
 
 Alternatives for Publishing we didn't use
 -----------------------------------------
@@ -185,7 +185,9 @@ Variants
 Thanks and Contact
 ------------------
 
-Thanks for listening.
+Thanks for listening to us.
+Thanks for reading the book.
+Thanks for contributing to the book.
 
 Sending Feedback
 ~~~~~~~~~~~~~~~~
