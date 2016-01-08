@@ -47,6 +47,127 @@ Releases
 ** Rendering at Gitbook has multiple non-trivial issues
 * Printed book planned, publication at http://www.onyxneon.com/[Onyx Neon]
 
+How the book is developed
+-------------------------
+
+* Base:
+** Writing is a creative process and requires a specific mood --
+   doesn't work at the touch of a button.
+** Our process is modeled after software development processes
+** Using (free) tools as we need them.
+
+* Writing at a fixed location: mostly in Zürich and Berlin
+** each author works mostly on his own
+** Exchange via phone, e-mail and video conference
+** occassional explicit meetings about the book
+   (so called "book sprints")
+
+* Writing on the road
+** Meeting within the scope of Linux events
+** in the camper van (Axel) and on the train (Frank)
+** also far off locations to find silence and avoiding distractions
+
+Sources of the Book
+-------------------
+
+* Hosting on the platform GitHub
+** without costs for free (freely available) Software
+** very popular and known to many developers/readers
+** provides uncomplicated coordination of external contributions
+** provides a simple rendering of AsciiDoc source files
+
+* Workflow in three steps:
+** clone a local copy of the book repository: `git clone git://github.com/dpmb/dpmb.git`
+** build the book locally, e.g. with `make pdf`, `make html` or `dpkg-buildpackage`
+** read, comment and improve
+
+Versioning
+----------
+
+* Version control system (VCS): Git
+** free, stable and very flexible VCS
+** Combination of central archive and distributed copies
+** distributed working without permanent need of an internet connection
+** steady synchronising and merging of contents
+
+* allows ...
+** ... to temporarily work without internet
+** ... being able to reconstruct who changed what when
+** ... to revert change
+
+Contributing and Feedback
+-------------------------
+
+* With GitHub account: via pull request on GitHub
+.. Click on the top-right fork button on https://github.com/dpmb/dpmb
+.. Make your changes and commit them to your forked GitHub repo:
+*** Either clone your own GitHub-Repo locally, make your changes
+    locally, commit them and push them into your forked GitHub repo.
+*** Or edit the files of your forked GitHub repo directly in your web
+    browser on the GitHub website.
+.. Open the webseite of your forked GitHub repo (or reload it) and
+   click on "Pull Request".
+* Without GitHub account: Send patches by e-mail
+.. Create local copy of our Git repo: `git clone git://github.com/dpmb/dpmb.git`
+.. Make your changes and commit them locally.
+.. Export patch(es) in files with `git format-patch origin/master` and
+   send the patches to mailto:buch@dpmb.org[buch@dpmb.org].
+
+* We check the patch or pull request
+** Either we accept the changes or we refuse them
+** If accepted, we "merge" the pull request or apply the patch with
+   `git am`.
+
+* Synchronise your local copy (`git pull`), so that all contributors
+  are in sync.
+
+Software
+--------
+
+* locally
+** Git as VCS
+** Asciidoc as platfor-ndependent markup language for the contents
+*** `asciidoc` or `asciidoctor` as primary parser
+*** `a2x`, `dblatex` and `pdflatex` for generating the PDF
+** Make for triggering the compilation into the output formats
+** Node.js and https://www.npmjs.com/package/gitbook[Gitbook
+   (installiert via npm)] for debugging, if the book doesn't build on
+   Gitbook.
+
+* on the web
+** GitHub for management, statistics, coordination and notifications
+** https://travis-ci.org/dpmb/dpmb/builds[Travis-CI for automatically
+   testing, if the book still builds after a commit], also used to
+   check that pull requests don't break the book.
+** Gitbook for building the online version and e-books automatically
+   after each `git push`. (May change soon.)
+
+Under Construction
+------------------
+
+* Where we're still working:
+** Finetuning part 2 -- consistent wording, keywords
+** Completion of part 3 -- Contents
+** Work around issues at Gitbook
+
+* We we need support:
+** Best Practice part (part 3) -- We can't setup all scenarios
+** Which problems with .deb packages and tools popped up and how have
+   they been solved.
+
+
+Alternatives for Publishing we didn't use
+-----------------------------------------
+
+* https://leanpub.com/[Leanpub] (primarily e-books, also free book or
+  pay-what-you-want scheme possible)
+* https://www.publi.de/[Epubli] (Print-on-demand, but also stock
+  printing on behalf and costs of the author; fixed book price in
+  Germany, but also present at
+  https://www.epubli.co.uk/[epubli.co.uk])
+* http://www.lulu.com/[Lulu] (primarily Print-on-demand)
+* http://www.bookbaby.com/[BookBaby] (E-books and printed books)
+
 Markdown in comparison to AsciiDoc
 ----------------------------------
 
@@ -66,8 +187,8 @@ Thanks and Contact
 
 Thanks for listening.
 
-Feedback
-~~~~~~~~
+Sending Feedback
+~~~~~~~~~~~~~~~~
 
 * Via e-mail to mailto:buch@dpmb.org[buch@dpmb.org]
 * https://github.com/dpmb/dpmb/pulls[Via pull request on GitHub]
