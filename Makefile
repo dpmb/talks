@@ -1,4 +1,4 @@
-all: lightning-talk.html hinter-den-kulissen.html
+all: lightning-talk.html hinter-den-kulissen.html behind-the-curtain.html
 
 %.html: %.adoc Makefile
 	asciidoc $<
