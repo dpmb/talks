@@ -21,7 +21,9 @@ Talks so far
 * [DebConf15, Heidelberg, Germany, 20th of August 2015](https://summit.debconf.org/debconf15/meeting/359/lightning-talks/):
   Lightning talk (English, 5 minutes,
   [Video recording, talk starts at 06m08s](http://meetings-archive.debian.net/pub/debian-meetings/2015/debconf15/Lightning_talks_2.webm))
-* [LinuxDay.at, Dornbirn, Austria, 21th of November 2015](http://www.linuxday.at/das-debian-paketmanagement-buch-%E2%80%93-blick-hinter-die-kulissen-eines-freien-buches):
+* [LinuxDay.at, Dornbirn, Austria, 21st of November 2015](http://www.linuxday.at/das-debian-paketmanagement-buch-%E2%80%93-blick-hinter-die-kulissen-eines-freien-buches):
+  Talk (German, 45 minutes)
+* Debian-Stammtisch, Berlin, Germany, 26th of November 2015:
   Talk (German, 45 minutes)
 * [Rencontres Hivernales du Libre, Saint-Cergue, Switzerland, 9th of January 2016](https://rencontres.hivernal.es/programme/presentation/11/):
   Talk (English/French, ca. 1h)
