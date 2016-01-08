@@ -15,7 +15,7 @@ We've started a book ...
 * Length: about 500 pages
 * Completely written in readable German
 ** Intended audience: advance beginners, professionals
-** An english translation is planned
+** An English translation is planned
 
 Contents of the Book
 --------------------
@@ -85,7 +85,7 @@ Sources of the Book
 Versioning
 ----------
 
-* Revision control system that we use: Git
+* Versioning control system (VCS) that we use: Git
 ** free, stable and very flexible VCS
 ** Combination of central archive, and distributed copies kept on local machines
 ** distributed working without permanent need of an internet connection
@@ -151,7 +151,7 @@ Under Construction
 ** Completion of part 3 -- content improvements
 ** Work around issues at Gitbook
 
-* We we need support for:
+* Where we need support for:
 ** Best practice part (part 3) -- we cannot setup, and verify all scenarios
 ** Which problems did you notice with .deb packages, and which tools
    popped up? How have did you solve the situation?
