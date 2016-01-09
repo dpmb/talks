@@ -34,7 +34,7 @@ Want to have an e-book of a pre-release version?
 
 Get all the stuff you need for it:
 
-    sudo apt-get install asciidoc dblatex texlive-lang-german xmlto
+    sudo apt-get install asciidoc calibre dblatex texlive-lang-german xmlto
     git clone git://github.com/dpmb/dpmb.git
     cd dpmb
 
