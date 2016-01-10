@@ -5,4 +5,4 @@ TODO for DPMB Talks
   gain of the project:
   * Financial gain is not primary motivation
   * The main gain is reputation.
-  * Axel and Frank have Different motivations
+  * Axel and Frank have different motivations
