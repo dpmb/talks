@@ -27,3 +27,5 @@ Talks so far
   Talk (German, 45 minutes)
 * [Rencontres Hivernales du Libre, Saint-Cergue, Switzerland, 9th of January 2016](https://rencontres.hivernal.es/programme/presentation/11/):
   Talk (English/French, ca. 1h)
+* [Augsburger Linux-Infotag, Augsburg, Germany, 16th of April 2016](http://www.luga.de/Aktionen/LIT-2016/abstracts.html#dpkg):
+  Talk (German, 45 minutes)
