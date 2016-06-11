@@ -147,8 +147,8 @@ Software
 ** https://travis-ci.org/dpmb/dpmb/builds[Travis-CI zum automatisches
    Testen, ob das Buch nach einem Commit noch baut], auch bei
    Pull-Requests.
-** Gitbook zum automatischen Bauen der Online-Version und E-Books nach
-   jedem `git push`.
+** VM bei Hetzner zum automatischen Bauen der Online-Version und
+   E-Books nach jedem `git push`.
 
 Baustellen
 ----------
@@ -156,7 +156,6 @@ Baustellen
 * Woran wir derzeit noch arbeiten:
 ** Feinschliff Teil 2 -- konsistente Wortwahl, Stichworte
 ** Vervollständigung von Teil 3 -- Inhalt
-** Markup ans Rendering bei Gitbook anpassen.
 
 * Wo wir noch Unterstützung brauchen:
 ** Praxisteil (Teil 3) -- Wir können nicht alle Szenarien nachbauen.
