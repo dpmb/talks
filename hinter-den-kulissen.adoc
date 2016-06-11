@@ -44,7 +44,7 @@ Veröffentlichungen
 ** E-Book (bisher PDF, EPUB und MobiPocket)
 ** Debian-Paket mit PDF, HTML und EPUB.
 * Fertig gebaute E-Books zum Online-Lesen und direkten Download unter http://book.dpmb.org/
-** Bisher mittels https://www.gitbook.com/book/dpmb/dpmb/details[Gitbook], Rendering dort hat aber Unschönheiten
+** Bisher mittels https://www.gitbook.com/book/dpmb/dpmb/details[Gitbook], http://gitbook.dpmb.org/[Rendering dort] hat aber Unschönheiten
 ** Seit kurzem selbstgehostet https://github.com/xtaran/CGI-Github-Webhook[mittels Eigenbau (Perl-Modul CGI::Github::Webhook)]
 * Gedrucktes Buch (kostenpflichtig) geplant, Veröffentlichung bei
   http://www.onyxneon.com/[Onyx Neon]
